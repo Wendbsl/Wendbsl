@@ -1,7 +1,7 @@
 # Hi I am Wendell boldrini 👋
 
 <a href="https://www.linkedin.com/in/vianzir0">
-  <img align="left" alt="Wendell Boldrini" width="30px" src="https://www.linkedin.com/in/wendell-boldrini-44852a15b/" />
+  <img align="right" alt="Wendell Boldrini" width="30px" src="https://www.linkedin.com/in/wendell-boldrini-44852a15b/" />
 </a>
 
 <br />
