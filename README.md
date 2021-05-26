@@ -13,7 +13,7 @@ Sou junior na área de programação, meu objetivo é me tornar um desenvolvedor
 
 Estou aprendendo java e novas tecnologias no atual momento.
 
-<img width="50%" align="right" alt="GIF" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" />
+<img width="30%" align="right" alt="GIF" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" />
 
 **Languages and Tools:**
 
