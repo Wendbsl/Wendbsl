@@ -1,6 +1,6 @@
 ### Hi I am Wendell boldrini 👋
 
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/wendell-boldrini-44852a15b/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
