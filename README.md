@@ -1,19 +1,19 @@
-# Hi I am Wendell boldrini 👋
+### Hi I am Wendell boldrini 👋
 
-<a href="https://www.linkedin.com/in/vianzir0">
-  <img align="right" alt="Wendell Boldrini" width="22px" src="https://www.linkedin.com/in/wendell-boldrini-44852a15b/" />
+<a href="https://www.linkedin.com/in/Wendbsl">
+  <img align="left" alt="Wendell Boldrini" width="22px" src="https://www.linkedin.com/in/wendell-boldrini-44852a15b/" />
 </a>
 
 <br />
 <br />
-
-<img width="50%" align="right" alt="GIF" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" />
 
 Olá meu Nome é Wendell Boldrini 👨🏽
 
 Sou junior na área de programação, meu objetivo é me tornar um desenvolvedor Back-End.
 
 Estou aprendendo java e novas tecnologias no atual momento.
+
+<img width="50%" align="right" alt="GIF" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" />
 
 **Languages and Tools:**
 
