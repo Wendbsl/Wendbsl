@@ -10,7 +10,7 @@
   <img align="center" alt="Wendbsl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wendbsl-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Wendbsl-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Wendbsl-Kakashi" src="https://media1.tenor.com/images/7bc651b2eaecdee33700823fbcd017b8/tenor.gif?itemid=8212733" height="250" width="280" >
+  <img align="right" alt="Wendbsl-Kakashi" src="https://media1.tenor.com/images/7bc651b2eaecdee33700823fbcd017b8/tenor.gif?itemid=8212733" height="250">
 </div>
   
   ##
